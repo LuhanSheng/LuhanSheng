@@ -4,7 +4,7 @@
 
 👀 I’m interested in Web Development.
 
-💞️ I’m looking for SDE Intern opportunity in the United States.
+💞️ I’m looking for 2023 Summer SDE Intern opportunity in the United States.
 
 📫 Reach me at: <a href="mailto:wc36170565@gmail.com">wc36170565@gmail.com</a>
 
