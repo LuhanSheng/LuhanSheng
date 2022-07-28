@@ -1,10 +1,12 @@
 ### Hi, I'm [Luhan Sheng!](https://github.com/LuhanSheng) 👋
 
-📚 I'm a Computer Science master student at Purdue University, graduating in 2024.
+📚 I'm a Computer Science Master Student at Purdue University, graduating in 2024.
 
-👀 I’m interested in web development.
+👀 I’m interested in Web Development.
 
 📫 Reach me at: <a href="mailto:wc36170565@gmail.com">wc36170565@gmail.com</a>
+
+💞️ I’m looking for SDE Intern opportunity in the United States.
 
 <div align="left">
 <!-- <a href="https://github.com/LuhanSheng" target="_blank">
@@ -21,7 +23,3 @@
   <a href="https://github.com/LuhanSheng">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuhanSheng&layout=compact&theme=monokai" />
   </a>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
