@@ -1,6 +1,6 @@
 ### Hi, I'm [Luhan Sheng!](https://github.com/LuhanSheng) 👋
 
-📚 I'm a Computer Science Master Student at Purdue University, graduating in 2024.
+📚 I'm a Computer Science Master Student at Purdue University.
 
 👀 I’m interested in Web Development.
 
