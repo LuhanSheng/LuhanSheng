@@ -20,7 +20,7 @@
   
 ## Github Stats  
   <a href="https://github.com/LuhanSheng">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuhanSheng&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuhanSheng&theme=material-palenight" />
   </a>
 <!--   <a href="https://github.com/LuhanSheng">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuhanSheng&layout=compact&theme=buefy" />
