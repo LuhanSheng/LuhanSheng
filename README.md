@@ -2,9 +2,9 @@
 
 📚 I'm a Computer Science Master Student at Purdue University.
 
-👀 I’m interested in Web Development.
+🚀 I’m interested in Web Development.
 
-🚀 I’m looking for 2023 Summer SDE Intern Opportunity in the United States.
+👀 I’m looking for 2023 Summer SDE Intern Opportunity in the United States.
 
 📫 Reach me at: <a href="mailto:wc36170565@gmail.com">wc36170565@gmail.com</a>
 
