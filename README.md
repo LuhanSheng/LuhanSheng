@@ -1,4 +1,4 @@
-### Hi there, I'm [Luhan Sheng](https://www.linkedin.com/in/luhan-sheng-865234152)! 👋
+### Hi there, I'm [Luhan Sheng!](https://www.linkedin.com/in/luhan-sheng-865234152) 👋
 
 📚 I'm a Master Student at Purdue Computer Science.
 
