@@ -2,9 +2,9 @@
 
 📚 I'm a Master Student at Purdue Computer Science.
 
-🚀 I’m interested in Web Development and Artificial Intelligence.
+🌱 I’m interested in Web Development and Artificial Intelligence.
 
-👀 I’m a incoming SDE Intern at Amazon Web Services.
+🚀 I’m a incoming SDE Intern at Amazon Web Services.
 
 📫 Reach me at: <a href="mailto:wc36170565@gmail.com">wc36170565@gmail.com</a>
 
