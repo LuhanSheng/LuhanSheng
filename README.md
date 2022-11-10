@@ -1,10 +1,10 @@
 ### Hi there, I'm [Luhan Sheng!](https://www.linkedin.com/in/luhan-sheng-865234152) 👋
 
-📚 I'm a Computer Science Master Student at Purdue University.
+📚 I'm a Master Student at Purdue Computer Science.
 
-🚀 I’m interested in Web Development.
+🚀 I’m interested in Web Development and Artificial Intelligence.
 
-👀 I’m looking for 2023 Summer Software Engineer Internship Opportunities in the United States.
+👀 I’m a incoming SDE Intern at Amazon Web Services.
 
 📫 Reach me at: <a href="mailto:wc36170565@gmail.com">wc36170565@gmail.com</a>
 
