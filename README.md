@@ -4,7 +4,7 @@
 
 🌱 I’m interested in Web Development and Artificial Intelligence.
 
-🚀 I’m a incoming SDE Intern at Amazon Web Services.
+🚀 I’m a SDE Intern at Amazon Web Services.
 
 📫 Reach me at: <a href="mailto:wc36170565@gmail.com">wc36170565@gmail.com</a>
 
