@@ -2,7 +2,7 @@
 
 📚 I'm a Master Student at Purdue Computer Science.
 
-🌱 I’m interested in Web Development and Artificial Intelligence.
+🌱 I’m interested in Web Development, Distributed Systems and Artificial Intelligence.
 
 🚀 I’m a SDE Intern at Amazon Web Services.
 
