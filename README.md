@@ -4,7 +4,7 @@
 
 🌱 I’m interested in Web Development, Distributed Systems and Artificial Intelligence.
 
-🚀 I’m a SDE Intern at Amazon Web Services.
+🚀 I will be joining Amazon Web Services as a Software Engineer next year.
 
 📫 Reach me at: <a href="mailto:wc36170565@gmail.com">wc36170565@gmail.com</a>
 
