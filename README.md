@@ -1,10 +1,10 @@
 ### Hi there, I'm [Luhan Sheng!](https://www.linkedin.com/in/luhan-sheng-865234152) 👋
 
-📚 I'm a Master Student at Purdue Computer Science.
+📚 I'm a Software Engineer at Amazon Web Services.
 
-🌱 I’m interested in Web Development and Distributed Systems.
+🌱 I graduated from Purdue University with a Master's degree in Computer Science.
 
-🚀 I will be joining Amazon Web Services as a Software Engineer in 2024.
+🚀 I’m interested in Distributed Systems and Artificial Intelligence.
 
 📫 Reach me at: <a href="mailto:wc36170565@gmail.com">wc36170565@gmail.com</a>
 
